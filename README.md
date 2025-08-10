@@ -36,8 +36,4 @@ We calculate three metrics:
    - Brand mentions
    - Engagement metrics
    - Sentiment (positive, neutral, negative)
-3. Apply the SoV formulas:
-   ```python
-   Raw SoV (%) = (Brand Mentions / Total Mentions) * 100
-   Weighted SoV (%) = (Engagement-Weighted Mentions / Total Engagement-Weighted Mentions) * 100
-   SoPV (%) = (Positive Mentions / Total Positive Mentions) * 100
+3. The Code applies the SOV formulae to get your insights
